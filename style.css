@@ -1,0 +1,17 @@
+.dashboard-title {
+    font-weight: 450;
+    font-size: 25px;
+}
+
+a, .footer-text {
+    font-weight: 200;
+    font-size: small;
+}
+
+.fa-angle-up {
+    margin-right: 5px !important;
+}
+
+.arrow-drop {
+    padding-left: 5px;
+}
